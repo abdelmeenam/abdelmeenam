@@ -6,7 +6,7 @@
 - I’m currently learning **Laravel and Vue.Js**
 
 - Ask me about **Backend Development**
-- I’m currently open for: new job opportunity, this is [MY RESUME](https://drive.google.com/file/d/1igAZggDV5mZDDg9FIaP_2kvO75-WkN5j/view?usp=sharing)
+- I’m currently open for: new job opportunity, this is [MY RESUME](https://drive.google.com/file/d/1MQUjvsq5yjne7wzgpLoOYT82n1PlH_2G/view?usp=sharing)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
