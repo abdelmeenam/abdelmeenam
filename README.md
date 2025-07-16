@@ -5,4 +5,3 @@ I'm a backend engineer with a strong focus on PHP and Laravel. I’ve also worke
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelmeenam&" alt="abdelmeenam" /></p>
